@@ -1,6 +1,6 @@
 # Microsoft Quick Authentication
 
-| [Web](./docs/quick-authentication-how-to.md)| [Android](./docs/quick-authentication-android-how-to.md) | [iOS](./docs/quick-authentication-ios-how-to.md) | [Web Demo](./demos) | [Android Demo](https://github.com/microsoft/quick-authentication-mobile/tree/main/android/demoapps/) | [iOS Demo](https://github.com/microsoft/quick-authentication-mobile/tree/main/iOS/SampleApp) | [Web Live Demos](https://quickauth.azurewebsites.net/)
+| [Web](./docs/quick-authentication-how-to.md)| [Android](./docs/quick-authentication-android-how-to.md) | [iOS](./docs/quick-authentication-ios-how-to.md) | [Web Demo](./demos) | [Android Demo](https://github.com/microsoft/quick-authentication-mobile/tree/main/android/demoapps/) | [iOS Demo](https://github.com/microsoft/quick-authentication-mobile/tree/main/iOS/SampleApp) | [Web Live Demos](https://microsoft.github.io/quick-authentication/demos/)
 |--|--|--|--|--|--|--|
 
 **Microsoft Quick Authentication** is a simple way for you to let your users sign up and sign in to your website using a Microsoft Account (MSA). You are likely familiar with similar offerings from other providers (e.g., “Sign in with ________”) and this offering provides that same capability to connect with people who use Microsoft products and cloud services, such as Outlook, OneDrive, Xbox LIVE, and Microsoft 365.
